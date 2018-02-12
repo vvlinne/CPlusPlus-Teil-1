@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!ELEMENT funko_pop_collection (figure+)>
+<!ELEMENT figure (name+,origin+,size*,price*)>
+<!ATTLIST figure 
+        id CDATA #REQUIRED>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT origin (#PCDATA)>
+<!ELEMENT size (#PCDATA)>
+<!ELEMENT price (#PCDATA)>
