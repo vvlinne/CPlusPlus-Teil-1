@@ -1,0 +1,45 @@
+
+
+Was soll es werden?
+Mein Projekt soll eine Archivierungsmöglichkeit für Sammelfiguren (Funko POP) werden. In der XML Datei stehen Informationen zur Figur an sich, und in der TXT steht der Lagerplatz und die Stückzahl.
+
+Anwendungsfall: Dieses Programm soll kommerziellen wie privaten Nutzern eine Möglichkeit bieten einen Überblick über ihre Sammlung (hier Figuren) zu haben.
+Geschäfte könnten dies als Lagerbestand nutzen um Kunden bei Nachfragen weiterhelfen zu können oder bei Inventuren.
+Privaten Nutzern soll dies lediglich einen Überblick über ihre gesammelten Werke bieten.
+
+Xml mit DTD enthält: Artikel Nummer (ID), Name der Figur, Herkunft, Größe, Preis
+
+Txt enthält: ID, Lagerplatz, Stückzahl
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+XML:
+<?xml version="1.0" encoding="UTF-8" standalone=„no“?>
+
+<funko_pop_collection>
+
+<figure id=„“>
+  <name> xxx </name>
+  <origin> xxx </origin>
+  <size> xxx </size>
+  <price> xxx </price>
+</figure>
+
+
+</funko_pop_collection>
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+dtd:
+
+<!ELEMENT funko_pop_collection (figure+)>
+<!ELEMENT figure (name+,origin+,size*,price*)>
+<!ATTLIST figure 
+        id CDATA #REQUIRED>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT origin (#PCDATA)>
+<!ELEMENT size (#PCDATA)>
+<!ELEMENT price (#PCDATA)>
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Txt:
+(ID)      (Platz)   (Stückzahl)
+6350        A1          3
