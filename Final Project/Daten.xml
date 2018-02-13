@@ -1,0 +1,62 @@
+<funko_pop_collection>
+    <figure>
+        <name id="6350">Sailor Moon with Luna</name>
+        <origin>Sailor Moon</origin>
+        <size>medium</size>
+        <price>12,99,-</price>
+    </figure>
+    <figure>
+        <name id="21211">Aurora</name>
+        <origin>Sleeping Beauty (Disney)</origin>
+        <size>medium</size>
+        <price>13,58,-</price>
+    </figure>    
+    <figure>
+        <name id="8401">Harley Quinn</name>
+        <origin>Suicide Squad </origin>
+        <size>medium</size>
+        <price>9,00,-</price>
+    </figure>    
+    <figure>
+        <name id="12217">Tormund Giantsbane</name>
+        <origin>Game of Thrones</origin>
+        <size>big</size>
+        <price>16,80,-</price>
+    </figure>    
+    <figure>
+        <name id="4339">Joker</name>
+        <origin>Arkham Asylum</origin>
+        <size>medium</size>
+        <price>12,05,-</price>
+    </figure>    
+    <figure>
+        <name id="12803">Jacks Sparrow</name>
+        <origin>Pirates of the Caribbean</origin>
+        <size>big</size>
+        <price>14,15,-</price>
+    </figure>    
+    <figure>
+        <name id="13550">Gandalf</name>
+        <origin>Lord of the Rings</origin>
+        <size>big</size>
+        <price> 8,38,- </price>
+    </figure>  
+    <figure>
+        <name id="12709">Demiguise</name>
+        <origin>Fantastic Beasts</origin>
+        <size>small</size>
+        <price> 8,76,- </price>
+    </figure>   
+    <figure>
+        <name id="5902">Quidditch Harry</name>
+        <origin>Harry Potter</origin>
+        <size>medium</size>
+        <price>16,99,-</price>
+    </figure> 
+    <figure>
+        <name id="3436">Smaug</name>
+        <origin>The Hobbit</origin>
+        <size>medium</size>
+        <price>32,17,-</price>
+    </figure>  
+</funko_pop_collection>
