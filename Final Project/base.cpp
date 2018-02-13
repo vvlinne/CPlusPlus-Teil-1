@@ -223,7 +223,7 @@ void Base::search() {
     char term[100];
     int gefundeneBegriffe = 0;
     cout << endl << "Nach welcher Kategorie soll gesucht werden?" << endl;
-    cout << "Verfügbare Kategorien sind: id, name, size, price und origin." << endl;
+    cout << "Verfuegbare Kategorien sind: id, name, size, price und origin." << endl;
     cout << "Eingabe: ";
     cin >> searchCategory;
     cout << "Welcher Suchbegriff soll enthalten sein?" << endl;
