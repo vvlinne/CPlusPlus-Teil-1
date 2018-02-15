@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE funko_pop_collection SYSTEM "Daten.dtd">
+<funko_pop_collection>
+    
+    <figure id="6350">
+        <name> Sailor Moon with Luna </name>
+        <origin> Sailor Moon </origin>
+        <size>medium</size>
+        <price> 12,99,- </price>
+    </figure>
+    
+    <figure id="21211">
+        <name> Aurora </name>
+        <origin> Sleeping Beauty (Disney) </origin>
+        <size>medium</size>
+        <price> 13,58,- </price>
+    </figure>
+    
+    <figure id="8401">
+        <name> Harley Quinn </name>
+        <origin> Suicide Squad </origin>
+        <size> medium </size>
+        <price> 9,00,- </price>
+    </figure>
+    
+    <figure id="12217">
+        <name> Tormund Giantsbane </name>
+        <origin> Game of Thrones </origin>
+        <size> big </size>
+        <price> 16,80,- </price>
+    </figure>
+    
+    <figure id="4339">
+        <name> Joker </name>
+        <origin> Arkham Asylum </origin>
+        <size>medium</size>
+        <price>12,05,-</price>
+    </figure>
+    
+    <figure id="12803">
+        <name>Jacks Sparrow</name>
+        <origin> Pirates of the Caribbean </origin>
+        <size>big</size>
+        <price>14,15,-</price>
+    </figure>
+    
+    <figure id="13550">
+        <name> Gandalf </name>
+        <origin> Lord of the Rings </origin>
+        <size>big</size>
+        <price> 8,38,- </price>
+    </figure>
+    
+    <figure id="12709">
+        <name> Demiguise </name>
+        <origin> Fantastic Beasts </origin>
+        <size>small</size>
+        <price> 8,76,- </price>
+    </figure>
+    
+    <figure id="5902">
+        <name> Quidditch Harry </name>
+        <origin> Harry Potter </origin>
+        <size>medium</size>
+        <price> 16,99,- </price>
+    </figure>
+    
+    <figure id="3436">
+        <name> Smaug </name>
+        <origin> The Hobbit </origin>
+        <size>medium</size>
+        <price> 32,17,- </price>
+    </figure>
+    
+    
+</funko_pop_collection>
+
+
