@@ -17,6 +17,7 @@ Weitere Kommentare innerhalb des Codes erklären die Funkitonen zusätzlich.
 Probleme/Änderungen zwischendurch:
 Da ich Token und Attribut Klassen aus den Vorlesungsfolien verwendet habe musste ich die XML Deklarationen sowie den DTD Verweis
 in den von mir erstellten Dateien entfernen, da diese nicht sauber ausgegeben, wenn auch verarbeitet wurden. Diese liegen im Ordner Final Project. Diese sollten auch zur Überprüfung der Funktionen genutzt werden.
+Weiterhin, sind in diesen Dateien keine weiteren Kommentare zu finden, da wir diese schon zu genüge in den Vorlesungen besprochen haben, kommentiert ist also eigentlich nur das, was ich selbst geschrieben habe.
 
 Post Mortem:
 Da ich die Semesterarbeit schnell und effektiv erledigen wollte (da ich nebenher schon mit meiner Bachelorarbeit angefangen habe), habe ich mich die vergangene Tage konstant mit der Programmierung beschäftigt und kontinuierlich dran gearbeitet. Daraus resultierend entstanden weniger Updates in diesem Repository.
